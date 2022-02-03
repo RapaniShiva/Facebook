@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <link rel="stylesheet" href="project1.css">r
+    
+</body>
+     <form action="">
+         <input type="text" placeholder="email or phone number"/> <br>
+         <input type="password" placeholder="password"/> <br>
+         <button type="submit">login in</button> <br>
+         <a href="" class=" f-pws">forgot password</a>
+           <div class="line"></div>
+           <button class="bnt2">create new account</button>
+     </form>
+     <div class="f- contaier">
+         <img src="C:\Users\Shiva\Desktop\download.jpg" alt="facebook">
+         <p>connect with friends and the world around on facebook</p>
+     </div>
+</html>
